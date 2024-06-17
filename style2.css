@@ -1,0 +1,28 @@
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 20px;
+    text-align:  center;
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+}
+
+li {
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: large;
+}
+
+#fixes {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    font-size: large;
+}
