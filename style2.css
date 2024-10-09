@@ -3,6 +3,11 @@ body {
   color: #ffffff;
   font-family: "JetBrains Mono";
   font-size: 18px;
+  margin-top: 50px;
+  /* Center the content */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1,
